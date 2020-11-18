@@ -1,8 +1,8 @@
 # Web_Visualizations Dashboard (Latitude)
 
-This is a project that requires creating a visualization dashboard website using visualizations created in a [past assignment](https://github.com/ushaakumaar/API-Challenge).Specifically, plotting [weather data](Resources/cities.csv).
+This is a project that requires creating a visualization dashboard [website](https://ushaakumaar.github.io/Web_Visualizations) using visualizations created in a [past assignment](https://github.com/ushaakumaar/API-Challenge). Specifically, plotting [weather data](Resources/cities.csv).
 
-## Programming Language / Applications - Used for Analysis
+## Programming Language / Applications - Used
 
   * HTML
   * CSS
